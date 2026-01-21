@@ -1,4 +1,4 @@
-# Custom Copilots which hand over work as sub-tasks
+# Custom Copilot Agents which hand over work as sub-tasks
 
 Simple experiment that tests how two copilot agents work together, when the 'agent' tool is available to the orchestrating agent.
 
